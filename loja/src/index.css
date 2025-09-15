@@ -23,7 +23,7 @@
     list-style: none;
 }
 body {
-    color: var(--text-color);
+    color: var(--text-base);
 }
 
 img {
